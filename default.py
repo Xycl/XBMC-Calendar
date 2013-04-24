@@ -9,8 +9,8 @@ import xbmc, xbmcgui
 from xbmcaddon import Addon
 
 # script constants
-__script__       = "Calendar"
-__plugin__       = "Calendar"
+__script__       = "script.calendar"
+__plugin__       = "script.calendar"
 __author__       = "CinPoU"
 __credits__      = ""
 __platform__     = "xbmc media center, [LINUX, OS X, WIN32, XBOX]"

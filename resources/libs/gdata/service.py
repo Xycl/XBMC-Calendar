@@ -64,7 +64,7 @@ import re
 import urllib
 import urlparse
 try:
-  from xml.etree import cElementTree as ElementTree
+  from elementtree import ElementTree
 except ImportError:
   try:
     import cElementTree as ElementTree
@@ -72,7 +72,7 @@ except ImportError:
     try:
       from xml.etree import ElementTree
     except ImportError:
-      from elementtree import ElementTree
+      from xml.etree import cElementTree as ElementTree
 import atom.service
 import gdata
 import atom

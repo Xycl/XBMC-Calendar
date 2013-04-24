@@ -1,0 +1,5 @@
+2012/07/09: script.calendar 1.6
+Fixed: Changed import of ElementTree from "from xml.etree import cElementTree as ElementTree" to "elementtree import ElementTree" in several files
+Fixed: Changed userdata/addon_data path from Calendar to "script.calendar"
+Fixed: Changed addonID in specialpath.py
+Added: German translation

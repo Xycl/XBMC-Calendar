@@ -97,14 +97,14 @@
   
   <string id="1250">Event's title</string>
   <string id="1251">Allday Event</string>
-  <string id="1252">Start date (AAAAMMJJ) :</string>
+  <string id="1252">Start date (YYYYMMDD) :</string>
   <string id="1253">Start time (HHMM) :</string>
-  <string id="1254">End date(AAAAMMJJ) :</string>
+  <string id="1254">End date(YYYYMMDD) :</string>
   <string id="1255">End time (HHMM) :</string>
   <string id="1256">Event's location</string>
   <string id="1257">Event's description </string>
   <string id="1258">Event's recurrence</string>
-  <string id="1259">Recurrence ending (AAAAMMJJ) :</string>
+  <string id="1259">Recurrence ending (YYYYMMDD) :</string>
   
   <!--Add Event Recurrence -->
   <string id="1260">None</string>

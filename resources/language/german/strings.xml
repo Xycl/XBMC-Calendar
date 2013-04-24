@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!--MAIN MENU -->
+  <string id="0">Kalender</string>
+  <string id="1">Neu laden</string>
+  <string id="2">Termine</string>
+  <string id="3">Kalender</string>
+  <string id="4">Ende</string>
+  <string id="5">bis</string>
+  <!--SUB MENU -->
+  <string id="10">Zeige</string>
+  <string id="11">Neu</string>
+  <string id="12">Ändern</string>
+  <!--Titles -->
+  <string id="20">Heute</string>
+  <string id="21">Ändere einen Kalender</string>
+  <string id="22">Füge einen Kalender hinzu</string>
+  <string id="23">Neuer Termin</string>
+  <string id="24">Ändere einen Kalender</string>
+  <string id="25">Ändere einen Termin</string>
+  <string id="26">Lösche einen Kalender</string>
+  <string id="27">Ändere den Account</string>
+  <!--Dialog -->
+  <string id="30">Kalender werden geladen...</string>
+  
+  <!--Calendars months -->
+  <string id="101">Januar</string>
+  <string id="102">Februar</string>
+  <string id="103">März</string>
+  <string id="104">April</string>
+  <string id="105">Mai</string>
+  <string id="106">Juni</string>
+  <string id="107">Juli</string>
+  <string id="108">August</string>
+  <string id="109">September</string>
+  <string id="110">Oktober</string>
+  <string id="111">November</string>
+  <string id="112">Dezember</string>
+  <!--Calendars days -->
+  <string id="121">Montag</string>
+  <string id="122">Dienstag</string>
+  <string id="123">Mittwoch</string>
+  <string id="124">Donnerstag</string>
+  <string id="125">Freitag</string>
+  <string id="126">Samstag</string>
+  <string id="127">Sonntag</string>
+  <!--Calendars days abr-->
+  <string id="131">Mon.</string>
+  <string id="132">Die.</string>
+  <string id="133">Mit.</string>
+  <string id="134">Don.</string>
+  <string id="135">Fre.</string>
+  <string id="136">Sam.</string>
+  <string id="137">Son.</string>
+  <!--Calendars colors-->
+  <string id="141">Rot</string>
+  <string id="142">Pink</string>
+  <string id="143">Violett</string>
+  <string id="144">Purple</string>
+  <string id="145">Navy</string>
+  <string id="146">Blau</string>
+  <string id="147">Zyan</string>
+  <string id="148">Grün</string>
+  <string id="149">Limone</string>
+  <string id="150">Orange</string>
+  <string id="151">Braun</string>
+  
+  <!--Show Events Panel -->
+  <string id="1210">Heute</string>
+  <string id="1211">bis</string>
+  <string id="1212">Ganztag</string>
+  <string id="1213">Zeige :</string>
+  <string id="1214">Verstecke :</string>
+  
+  <!--Add Calendar Panel -->
+  <string id="1220">Titel :</string>
+  <string id="1221">Farbe :</string>
+  <string id="1222">Typ :</string>
+  <string id="1223">Pfad :</string>
+  <string id="1224">Account :</string>
+  <string id="1225">Kalender :</string>
+  <!--Add Calendar Dialog -->
+  <string id="1320">Account-Name</string>
+  <string id="1321">Login</string>
+  <string id="1322">Kennwort</string>
+  <string id="1323">Login und Kennwort überprüfen</string>
+  
+  <!--Add Event Panel -->
+  <string id="1230">Kalender :</string>
+  <string id="1231">Titel :</string>
+  <string id="1232">Start-Datum :</string>
+  <string id="1233">Start-Zeit :</string>
+  <string id="1234">End-Datum :</string>
+  <string id="1235">End-Zeit :</string>
+  <string id="1236">Optionen :</string>
+  <string id="1237">Ende der Wiederholung :</string>
+  
+  <string id="1250">Titel des Termins</string>
+  <string id="1251">Ganztags-Termin</string>
+  <string id="1252">Start-Datum (JJJJMMTT) :</string>
+  <string id="1253">Start-Zeit (HH:MM) :</string>
+  <string id="1254">End-Datum(JJJJMMTT) :</string>
+  <string id="1255">End-Zeit (HHMM) :</string>
+  <string id="1256">Ort des Termins</string>
+  <string id="1257">Termin-Beschreibung </string>
+  <string id="1258">Termin-Wiederholung</string>
+  <string id="1259">Ende der Wiederholung (JJJJMMTT) :</string>
+  
+  <!--Add Event Recurrence -->
+  <string id="1260">keine Wiederholung</string>
+  <string id="1261">Täglich</string>
+  <string id="1262">Wöchentlich</string>
+  <string id="1263">Jeden Monat</string>
+  <string id="1264">Jedes Jahr</string>
+  <string id="1265">Termin-Wiederholung </string>
+  <string id="1266">Änderung fehlgeschlagen</string>
+  
+  <!--Add Event Error -->
+  <string id="1270">Error</string>
+  <string id="1271"> Non valid format </string>
+  <string id="1272"> Undefined</string>
+  <string id="1273"> Undefined</string>
+  <string id="1274"> Event added successfully</string>
+  <string id="1275"> Events' update</string>
+  <string id="1276"> Event updated successfully</string>
+  <string id="1277"> Event deleted successfully</string>
+  <string id="1278"> Can not update the event</string>
+  <string id="1279"> Can not delete the event</string>
+  <string id="1280">Want to update the event</string>
+  <string id="1281">Want to delete the event</string>
+  <string id="1282">Incoherent's start and end dates </string>
+  <string id="1283">Adding the calendar</string>
+  <string id="1284">Select the calendar</string>
+  <string id="1285">Success</string>
+  <string id="1286">Calendar adds successfully</string>
+  <string id="1287">Unvalid Adress</string>
+  <string id="1288">Missing adress</string>
+  <string id="1289">Please change the URL</string>
+  <string id="1290">Title is missing </string>
+  <string id="1291">Please change the title</string>
+  
+  <!--Add Event Panel -->
+  <string id="1240">Titel :</string>
+  <string id="1241">Farbe :</string>
+  
+  <!--Add Calendar Keyboard -->
+  <string id="1301">Name des Kalenders</string>
+  <string id="1302">bis</string>
+  <string id="1303">Ganztag</string>
+  
+  <!--Mod Calendar ContextMenu -->
+  <string id="2001">Unsubscribing to the calendar</string>
+  <string id="2002">Unsubscribing to the Google's account</string>
+  <string id="2003">Kalender</string>
+  <string id="2004">Kalender löschen ?</string>
+  <string id="2005">Kalender ändern ?</string>
+  
+  <!--Mod Account ContextMenu -->
+  <string id="2101">Account-Title</string>
+  <string id="2102">Login :</string>
+  <string id="2103">Kennwort :</string>
+  <string id="2104">Account</string>
+  <string id="2105">Account und alle Kalender löschen?</string>
+  <string id="2106">Account ändern ?</string>
+  
+  
+  <!--OPTIONS MENU STRING -->
+  <string id="30001">Wochenstart am Sonntag</string>
+</strings>
